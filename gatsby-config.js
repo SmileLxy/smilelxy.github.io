@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/blog',
   siteMetadata: {
     title: `Excalibur of Saber`,
     name: `Excalibur`,
