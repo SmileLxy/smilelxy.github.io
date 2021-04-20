@@ -1,7 +1,7 @@
 ---
 title: 浏览器缓存策略
 author: xiaoyang.li
-date: 2019-06-15
+date: 2020-06-15
 hero: ./images/poster.jpg
 excerpt: 浏览器缓存策略
 ---
